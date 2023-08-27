@@ -1,4 +1,9 @@
 piper-tts
 wave
 openai
+Pillow==9.5.0
 moviepy
+httpx
+asyncio
+nltk
+pyphen

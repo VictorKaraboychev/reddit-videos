@@ -1,4 +1,5 @@
 .conda
 model
 out/*
-src/text-raw.txt
+in/*
+.vscode
