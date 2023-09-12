@@ -16,9 +16,9 @@ language = 'en_US'
 model = 'lessac'
 quality = 'medium'
 
-openai.api_key = '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'
+openai.api_key = ''
 
-tiktok_id = '9197266a54249bf575a1ac7e1bb68eb5'
+tiktok_id = ''
 
 download('punkt')
 
